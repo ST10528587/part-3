@@ -110,5 +110,5 @@ Google (2026) Google Maps. Available at: https://www.google.com/maps⁠� (Acce
 Pexels (2026) Free stock photos. Available at: https://www.pexels.com⁠� (Accessed: 20 April 2026).
 Unsplash (2026) Free images. Available at: https://unsplash.com⁠� (Accessed: 20 April 2026).
 
-MDN Web Docs (2026) Web development resources. Available at: https://developer.mozilla.org⁠� (Accessed: 20 April 2026).
-Website published on https://github.com/ST10528/part-3 
+MDN Web Docs (2026) Web development resources. Available at: https://developer.mozilla.org⁠� (Accessed: 19 june 2026).
+Website published on https://github.com/ST10528587/part-3 
