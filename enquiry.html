@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Enquiry - Musa Meat</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <img src="image/logo 1.png" alt="logo">
+
+
+<header>
+    <h1>Musa Meat</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="products.html">Products</a>
+        <a href="enquiry.html">Enquiry</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Make an Enquiry</h2>
+
+    <form>
+        <label>Name:</label>
+        <input type="text" required>
+
+        <label>Email:</label>
+        <input type="email" required>
+
+        <label>Enquiry Type:</label>
+        <select>
+            <option>Order</option>
+            <option>Pricing</option>
+            <option>General</option>
+        </select>
+
+        <label>Message:</label>
+        <textarea required></textarea>
+
+        <button type="submit">Submit</button>
+    </form>
+</main>
+ <div class="footer-newsletter">
+      <h3>Newsletter</h3>
+      <p>Subscribe for special offers and updates.</p>
+      <div class="newsletter-form">
+        <input type="email" id="newsletterEmail" placeholder="Enter your email" required aria-label="Newsletter email">
+        <button type="button" onclick="handleNewsletterSubmit()">Subscribe</button>
+      </div>
+    </div>
+
+<footer>
+    <p>&copy; 2026 Musa Meat</p>
+</footer>
+
+</body>
+<script src="js/script.js"></script>
+</html>
